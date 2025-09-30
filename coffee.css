@@ -180,7 +180,7 @@ header.show-mobile-menu .navbar .menu-links{
     }
 
 
-    #home {background: url(./TeaIMG/Dark\ once\ again.jpg)no-repeat center/cover;}
+    #home {background: url(https://i.pinimg.com/564x/34/41/07/34410723b41249483ac0eeb61d515a97.jpg)no-repeat center/cover;}
     #menu { background: #f8f5f2; }
     #testimonials { background: #eae7de; }
     #about { background: #d9d2c4; }
@@ -348,4 +348,5 @@ header.show-mobile-menu .navbar .menu-links{
         font-weight: normal;
         font-size: 24px;
         margin: 7px;
+
     }
